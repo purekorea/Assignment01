@@ -24,4 +24,12 @@ Each movie is automatically assigned a unique ID and can be stored in the databa
 It allows you to enter the name of the director of the movie and how long the movie will run.
 Finally, this Web Application was configured so that the movie information could be updated with 
 the correct information by editing and deleting the wrong information.
-Thank you.
+
+
+![image](https://user-images.githubusercontent.com/75225436/153768562-4aca8f0a-3dc1-4504-bbf7-e4b595289fe4.png)
+
+![image](https://user-images.githubusercontent.com/75225436/153768586-4b3403bc-f4bd-4d28-87e6-ea5e8c3850bc.png)
+
+![image](https://user-images.githubusercontent.com/75225436/153768604-8ce9d57f-257e-4574-9435-d7af27d7b975.png)
+
+
