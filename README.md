@@ -37,10 +37,14 @@ the correct information by editing and deleting the wrong information.
 Screenshots(Web Pages)
 
 <Directors>
+  
 ![image](https://user-images.githubusercontent.com/75225436/153772275-22393242-9228-4d39-84e0-bae08c74036b.png)
+  
 
 <Actors and Actoress>
 ![image](https://user-images.githubusercontent.com/75225436/153772292-158a66a6-0af7-4dc7-9a14-db1a59f3a12f.png)
+  
 
 <Favorite Movies>
+  
 ![image](https://user-images.githubusercontent.com/75225436/153772309-626c7bea-8f6f-45a0-a88e-cdf9be7a2c47.png)
